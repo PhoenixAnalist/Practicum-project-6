@@ -1,4 +1,4 @@
-# Practicum---project-6
+# Practicum-project-6
 # **Project Description**
 
 Congratulations! You&#39;ve completed another training platform course. Now is the perfect time to test your skills and solve a new machine learning problem. For this project, you will be on your own.
