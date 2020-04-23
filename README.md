@@ -1,12 +1,3 @@
-# Practicum-project-6
-# **Project Description**
-
-Congratulations! You&#39;ve completed another training platform course. Now is the perfect time to test your skills and solve a new machine learning problem. For this project, you will be on your own.
-
-When you finish, send your work to the project reviewer. You will receive feedback within 24 hours. After that, you will make any necessary changes to you work and send it for a second review.
-
-Usually this process has to be repeated several times until you get the green light from the reviewer and all the corrections are approved. That&#39;s all part of the job.
-
 # **Project description**
 
 Mobile carrier Megaline has found out that many of their subscribers use legacy plans. They want to develop a model that would analyze subscribers&#39; behavior and recommend one of Megaline&#39;s newer plans: Smart or Ultra.
